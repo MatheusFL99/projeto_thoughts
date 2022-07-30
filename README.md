@@ -29,4 +29,4 @@ Visualização, criação, editação e remoção de pensamentos(postagens).
    ```bash
    $ npm start
    ```
-4. Browse to `http://localhost:30000/`
+4. Browse to `http://localhost:3000/`
